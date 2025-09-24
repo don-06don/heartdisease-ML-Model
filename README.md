@@ -26,7 +26,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 
 
 ## 🧩 Project Workflow
-**1️⃣ Data Preprocessing & Cleaning**
+### 1️⃣ Data Preprocessing & Cleaning
 
   - Handle missing values
 
@@ -42,7 +42,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 
 
 
-**2️⃣ Dimensionality Reduction (PCA)**
+### 2️⃣ Dimensionality Reduction (PCA)**
 
   - Reduce feature dimensions with PCA
 
@@ -54,7 +54,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 
 
 
-**3️⃣ Feature Selection**
+### 3️⃣ Feature Selection**
 
   - Rank features using Random Forest/XGBoost
 
@@ -66,7 +66,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 
 
 
-**4️⃣ Supervised Learning - Classification**
+### 4️⃣ Supervised Learning - Classification**
 
   - Split data: 80% train / 20% test
 
@@ -78,7 +78,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 
 
 
-**5️⃣ Unsupervised Learning - Clustering**
+### 5️⃣ Unsupervised Learning - Clustering**
 
   - K-Means (use elbow method to find K)
 
@@ -90,7 +90,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 
 
 
-**6️⃣ Hyperparameter Tuning**
+### 6️⃣ Hyperparameter Tuning**
 
   - Optimize models with GridSearchCV & RandomizedSearchCV
 
