@@ -22,7 +22,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 
 -Name: Heart Disease UCI Dataset
 
--Source: UCI ML Repository
+-Source: [Heart Disease UCI Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
 
 -Content: Medical attributes like age, sex, blood pressure, cholesterol, and heart-related features to predict heart disease.
 
