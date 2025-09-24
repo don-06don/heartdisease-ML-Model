@@ -40,6 +40,8 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 
 
 
+
+
 **2️⃣ Dimensionality Reduction (PCA)**
 
   - Reduce feature dimensions with PCA
