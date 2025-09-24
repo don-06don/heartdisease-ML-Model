@@ -41,6 +41,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 ✅ Deliverable: Clean dataset ready for modeling
 
 
+
 **2️⃣ Dimensionality Reduction (PCA)**
 
   - Reduce feature dimensions with PCA
@@ -50,6 +51,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
   - Visualize variance and components
 
 ✅ Deliverable: PCA-transformed dataset + plots
+
 
 
 **3️⃣ Feature Selection**
@@ -63,6 +65,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 ✅ Deliverable: Key features + importance visualization
 
 
+
 **4️⃣ Supervised Learning - Classification**
 
   - Split data: 80% train / 20% test
@@ -74,6 +77,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
 ✅ Deliverable: Trained models + evaluation metrics
 
 
+
 **5️⃣ Unsupervised Learning - Clustering**
 
   - K-Means (use elbow method to find K)
@@ -83,6 +87,7 @@ It covers the full pipeline: data cleaning, feature selection, PCA, model traini
   - Compare clusters with actual labels
 
 ✅ Deliverable: Clustering models + visualizations
+
 
 
 **6️⃣ Hyperparameter Tuning**
